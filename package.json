@@ -9,7 +9,7 @@
     "url": "git://github.com/sudhirj/simply-deferred.git"
   },
   "main": "./deferred",
-  "dependencies": [],
+  "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.10.0",
     "mocha": "*",
